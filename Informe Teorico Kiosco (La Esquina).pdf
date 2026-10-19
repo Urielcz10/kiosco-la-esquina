@@ -1,0 +1,641 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Annots [ 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F1-0 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Urielcz10\057kiosco\055la\055esquina)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 162.3228 660.3047 293.8652 672.3047 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Urielcz10\057kiosco\055la\055esquina)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 162.3228 648.3047 183.8476 660.3047 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Length 7444
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .866667 .905882 RG
+n 45.35433 31.1811 m 549.9213 31.1811 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 45.35433 19.84252 Tm (IPETYM N.\272 246 \227 7.\272 a\361o \223C\224 Programaci\363n) Tj T* ET
+BT 1 0 0 1 520.3188 19.84252 Tm (P\341gina 1) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 784.2047 cm
+q
+.266667 .329412 .415686 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 156.1215 0 Td (IPETYM N.\272 246 \223DR. AMADEO SABATTINI\224) Tj T* -156.1215 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 756.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 50.25946 0 Td (FICHA DE PROYECTO E INVESTIGACI\323N TE\323RICA) Tj T* -50.25946 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 739.2047 cm
+q
+.266667 .329412 .415686 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 126.2325 0 Td (Trabajo Pr\341ctico Integrador Full Stack \227 Entrega Semana 1) Tj T* -126.2325 0 Td ET
+Q
+Q
+q
+1 0 0 1 77.95276 641.2047 cm
+q
+.917647 .941176 .972549 rg
+n 0 90 79.37008 -90 re f*
+.917647 .941176 .972549 rg
+n 221.1024 90 70.86614 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 73 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Estudiante) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.37008 73 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 8.8 Tf 12 TL (Elias Uriel Cortez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.1024 73 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Proyecto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (Kiosco La Esquina \227 Sistema de) Tj T* (Gesti\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Curso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 8.8 Tf 12 TL (7.\272 a\361o \223C\224 \227 Programaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.1024 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Ponderaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 8.8 Tf 12 TL (30% de la nota final) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.2 Tm /F2 8.8 Tf 12 TL (Repositorio) Tj T* (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 84.37008 5 cm
+q
+.019608 .388235 .756863 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (github.com/Urielcz10/kiosco-la-es) Tj T* (quina) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.1024 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Estado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (Creado; contiene README y) Tj T* (commit inicial.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.717647 .788235 .866667 RG
+.4 w
+n 0 90 m 439.3701 90 l S
+n 0 0 m 439.3701 0 l S
+n 0 0 m 0 90 l S
+n 439.3701 0 m 439.3701 90 l S
+n 0 56 m 439.3701 56 l S
+n 0 34 m 439.3701 34 l S
+n 79.37008 0 m 79.37008 90 l S
+n 221.1024 0 m 221.1024 90 l S
+n 291.9685 0 m 291.9685 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 636.2047 cm
+Q
+q
+1 0 0 1 51.35433 613.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (1. FICHA DEL PROYECTO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 571.2047 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Descripci\363n:) Tj /F1 8.8 Tf ( Mi proyecto consiste en desarrollar un sistema web para administrar las ventas y el stock de un negocio del) Tj T* (barrio, \223Kiosco La Esquina\224. Busca resolver problemas comunes como controlar golosinas, bebidas y mercader\355a, cargar) Tj T* -0.026637 Tw (ventas diarias r\341pidamente y permitir que cada empleado ingrese con su propia cuenta seg\372n las tareas que tenga asignadas.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 51.35433 541.2047 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Objetivo t\351cnico:) Tj /F1 8.8 Tf ( Usar HTML y CSS para la parte visual, PHP para el backend y MySQL para guardar los datos. Tambi\351n) Tj T* (aplicar medidas de seguridad, validaciones, pruebas y organizaci\363n semanal mediante un tablero Kanban.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 518.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (2. TABLERO PERSONAL KANBAN INICIAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78.66142 393.2047 cm
+q
+.85098 .917647 .968627 rg
+n 0 120 437.9528 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Por hacer \(Backlog\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.9843 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (En proceso \(m\341ximo 2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 297.9685 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 8.8 Tf 12 TL (Hecho \(Done\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+BT 1 0 0 1 0 75.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (\177 Dise\361ar las 5 tablas: Usuarios,) Tj T* (Roles, Productos, Ventas y) Tj T* (Detalle_Ventas.) Tj  T* (\177 Crear el script SQL e insertar) Tj T* (productos de prueba.) Tj  T* (\177 Programar el login y la gesti\363n) Tj T* (de productos y ventas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 151.9843 30 cm
+q
+BT 1 0 0 1 0 51.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (\177 Completar la investigaci\363n) Tj T* (te\363rica de Semana 1.) Tj  T* (\177 Armar las pantallas iniciales de) Tj T* (login y panel general en) Tj T* (HTML/CSS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 297.9685 30 cm
+q
+BT 1 0 0 1 0 51.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (\177 Definir nombre y alcance del) Tj T* (kiosco.) Tj  T* (\177 Crear el repositorio GitHub y) Tj T* (realizar el commit inicial.) Tj  T* (\177 Organizar las tareas en Kanban.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.4 w
+n 0 120 m 437.9528 120 l S
+n 0 0 m 437.9528 0 l S
+n 0 0 m 0 120 l S
+n 437.9528 0 m 437.9528 120 l S
+n 0 96 m 437.9528 96 l S
+n 145.9843 0 m 145.9843 120 l S
+n 291.9685 0 m 291.9685 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 370.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (3. INVESTIGACI\323N TE\323RICA \227 M\323DULO I: SEGURIDAD Y ACCESOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 353.2047 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (A. Control de Acceso Basado en Roles \(RBAC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 299.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.2 Tm /F1 8.8 Tf 12 TL (RBAC \(Role-Based Access Control\) sirve para controlar qu\351 puede ver o hacer cada usuario seg\372n el rol asignado. No) Tj T* (alcanza con comprobar que inici\363 sesi\363n: tambi\351n hay que verificar desde PHP qu\351 permisos tiene. As\355 se evita que un) Tj T* (empleado entre a secciones que no le corresponden. En este proyecto, los roles podr\355an diferenciar las tareas de) Tj T* (administraci\363n y de venta.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.2047 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (B. Inyecci\363n SQL \(SQLi\) y consultas preparadas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 240.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (La inyecci\363n SQL ocurre cuando se agregan datos ingresados por una persona directamente dentro de una consulta SQL.) Tj T* (Alguien podr\355a intentar alterar una consulta, saltarse el inicio de sesi\363n o modificar informaci\363n. Para prevenirlo en PHP se) Tj T* (usan consultas preparadas, que separan la instrucci\363n SQL de los datos recibidos:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 198.2047 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (1. ) Tj /F2 8.8 Tf (prepare\(\)) Tj /F1 8.8 Tf (: prepara la consulta con signos de pregunta \(?\) donde ir\341n los valores.) Tj  T* (2. ) Tj /F2 8.8 Tf (bind_param\(\)) Tj /F1 8.8 Tf (: vincula los valores y sus tipos a esos lugares.) Tj  T* (3. ) Tj /F2 8.8 Tf (execute\(\)) Tj /F1 8.8 Tf (: ejecuta la consulta con los datos vinculados.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 38.26778 re
+f*
+Q
+
+
+endstream
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 13 0 R ]
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F1-0 15 0 R
+/F2 10 0 R
+/F3 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Urielcz10\057kiosco\055la\055esquina)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 105.6239 209.6447 285.1087 220.2047 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Length 6360
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .866667 .905882 RG
+n 45.35433 31.1811 m 549.9213 31.1811 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 45.35433 19.84252 Tm (IPETYM N.\272 246 \227 7.\272 a\361o \223C\224 Programaci\363n) Tj T* ET
+BT 1 0 0 1 520.3188 19.84252 Tm (P\341gina 2) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (4. INVESTIGACI\323N TE\323RICA \227 M\323DULO II: ARQUITECTURA Y ENTORNO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 764.2047 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (C. Configuraci\363n de Apache mediante .htaccess) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 710.2047 cm
+q
+BT 1 0 0 1 0 39.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (El archivo .htaccess permite configurar aspectos de Apache desde una carpeta, sin modificar la configuraci\363n global. En este) Tj T* (proyecto se puede usar para bloquear el listado de archivos con ) Tj /F3 8.8 Tf (Options -Indexes) Tj /F1 8.8 Tf (, restringir el acceso directo a archivos) Tj T* (privados y definir una p\341gina personalizada para errores como el 404. Estas reglas deben probarse en el servidor donde se) Tj T* (publique el sistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 693.2047 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (D. Centralizaci\363n y conexi\363n din\341mica en config.php) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 651.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (Conviene guardar la conexi\363n a la base de datos en un solo archivo, como config.php, e incluirlo en las p\341ginas que la) Tj T* (necesiten. As\355 no se repiten los datos y es m\341s f\341cil cambiar la configuraci\363n. Se puede detectar si el sistema corre en) Tj T* (localhost o en un servidor online para seleccionar la conexi\363n correspondiente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 633.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 8.8 Tf 12 TL (Ejemplo orientativo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.2047 cm
+q
+.94902 .956863 .968627 rg
+n 31 -5 466.5669 91 re f*
+Q
+q
+BT 1 0 0 1 36 73.5 Tm 9 TL /F3 7.5 Tf 0 0 0 rg (if \($_SERVER['HTTP_HOST'] == 'localhost'\) {) Tj  T* ( ) Tj ( ) Tj ($db_host = 'localhost';) Tj  T* ( ) Tj ( ) Tj ($db_user = 'root';) Tj  T* ( ) Tj ( ) Tj ($db_pass = '';) Tj  T* ( ) Tj ( ) Tj ($db_name = 'kiosco_la_esquina';) Tj  T* (} else {) Tj  T* ( ) Tj ( ) Tj (// Completar con los datos reales del hosting) Tj  T* ( ) Tj ( ) Tj ($db_host = 'servidor_de_base_de_datos';) Tj  T* (}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 517.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.2 Tm /F1 8.8 Tf 12 TL (As\355 no hace falta cambiar manualmente la conexi\363n al pasar de la computadora local al hosting. En un proyecto real, las) Tj T* (credenciales deben mantenerse privadas y no subirse al repositorio p\372blico.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 494.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (5. INVESTIGACI\323N TE\323RICA \227 M\323DULO III: METODOLOG\315A Y QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 477.2047 cm
+q
+.121569 .305882 .47451 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (E. Agilidad personal, historias de usuario y testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 435.2047 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Metodolog\355a y Personal Kanban:) Tj /F1 8.8 Tf ( Para trabajar de forma ordenada uso un tablero con tres columnas: Por hacer, En proceso) Tj T* (y Hecho. Muevo las tareas seg\372n su estado y limito el trabajo en proceso a dos tareas para no empezar demasiadas cosas al) Tj T* (mismo tiempo. Esto ayuda a organizar las entregas semanales y ver qu\351 falta completar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 405.2047 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Historias de usuario:) Tj /F1 8.8 Tf ( Son frases cortas que describen una necesidad desde el punto de vista de quien usa el sistema. Se) Tj T* (pueden escribir con el formato: \223Como [tipo de usuario], quiero [acci\363n], para [beneficio]\224. Ejemplos para Kiosco La Esquina:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 363.2047 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F1 8.8 Tf 0 0 0 rg (\177 Como empleado, quiero iniciar sesi\363n con mi cuenta para acceder a las funciones que me corresponden.) Tj  T* (\177 Como encargado, quiero registrar productos y actualizar el stock para mantener el inventario al d\355a.) Tj  T* (\177 Como vendedor, quiero cargar una venta y sus productos para registrar correctamente lo vendido.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.2047 cm
+q
+BT 1 0 0 1 0 27.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Testing \(pruebas\):) Tj /F1 8.8 Tf ( Consiste en probar las funciones para encontrar errores antes de entregar el sistema. Voy a comprobar) Tj T* (que el login rechace datos incorrectos, que cada rol solo entre a sus secciones, que no se acepten cantidades o precios) Tj T* (inv\341lidos y que al registrar una venta se actualice el stock. Tambi\351n probar\351 campos vac\355os y datos inesperados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 291.2047 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Criterio de calidad:) Tj /F1 8.8 Tf ( Una funci\363n se considera lista cuando cumple lo pedido, muestra mensajes claros ante errores y las) Tj T* (pruebas principales dan el resultado esperado. Los errores encontrados se corrigen y se vuelven a probar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 268.2047 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (6. ESTADO ACTUAL Y PR\323XIMOS PASOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 226.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.2 Tm /F1 8.8 Tf 12 TL (El repositorio de GitHub ya est\341 creado y tiene un README con el nombre y la descripci\363n general del proyecto. El siguiente) Tj T* (paso es subir la estructura de carpetas y los archivos del sistema, crear la base de datos con sus cinco tablas y avanzar con) Tj T* (las pantallas iniciales. Despu\351s se implementar\341n los permisos, las consultas preparadas y las pruebas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 208.2047 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12 TL /F2 8.8 Tf 0 0 0 rg (Repositorio:) Tj /F1 8.8 Tf ( ) Tj .019608 .388235 .756863 rg (https://github.com/Urielcz10/kiosco-la-esquina) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 197.2047 cm
+Q
+q
+1 0 0 1 51.35433 179.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F1 8.8 Tf 12 TL (Elias Uriel Cortez \227 Kiosco La Esquina) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 38.26778 re
+f*
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000436 00000 n 
+0000000658 00000 n 
+0000000880 00000 n 
+0000008376 00000 n 
+0000008483 00000 n 
+0000008590 00000 n 
+0000008703 00000 n 
+0000008809 00000 n 
+0000009074 00000 n 
+0000009297 00000 n 
+0000015710 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+15818
+%%EOF
